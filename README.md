@@ -5,4 +5,5 @@ The notebook and Python files provided here, once completed, result in a simple 
 Sentiment Analysis Web App is a notebook and collection of Python files to be completed. The result is a deployed RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint.
 
 #WebApp UI
-<img src="website/review.png />
+<br>
+website/review.png
