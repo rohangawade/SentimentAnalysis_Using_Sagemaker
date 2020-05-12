@@ -6,4 +6,5 @@ Sentiment Analysis Web App is a notebook and collection of Python files to be co
 
 #WebApp UI
 <br>
+
 ![image](https://user-images.githubusercontent.com/23398493/81648451-92ebaf00-93e3-11ea-9fd9-fb1dc058d5d4.png)
